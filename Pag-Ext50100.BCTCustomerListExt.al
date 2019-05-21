@@ -6,10 +6,6 @@ pageextension 50100 "BCT CustomerListExt" extends "Customer List"
 {
     trigger OnOpenPage();
     begin
-<<<<<<< HEAD:HelloWorld.al
-        Message('Zdravo Milosev svete');
-=======
         Message('App published: Guten Morgen');
->>>>>>> ca545013affbfab1d9eba4cb0076b8ce7f40313a:Pag-Ext50100.BCTCustomerListExt.al
     end;
 }
