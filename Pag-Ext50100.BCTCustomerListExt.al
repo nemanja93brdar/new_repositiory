@@ -6,6 +6,6 @@ pageextension 50100 "BCT CustomerListExt" extends "Customer List"
 {
     trigger OnOpenPage();
     begin
-        Message('App published: Guten MorgenV poyyyy 12124561456745645645145451');
+        Message('App published: Guten MorgenV poyyyy 1212456145674564564514545git 1');
     end;
 }
