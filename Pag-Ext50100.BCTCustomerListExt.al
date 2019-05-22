@@ -3,6 +3,8 @@
 // AL snippets start with t*, like tpageext - give them a try and happy coding!
 
 pageextension 50100 "BCT CustomerListExt" extends "Customer List"
+
+
 {
     trigger OnOpenPage();
     begin
@@ -10,5 +12,6 @@ pageextension 50100 "BCT CustomerListExt" extends "Customer List"
         Message('Guten Morgen');
         Message('Fenster');
         //OVAKO MOŽE
+        Message('POYY');
     end;
 }
