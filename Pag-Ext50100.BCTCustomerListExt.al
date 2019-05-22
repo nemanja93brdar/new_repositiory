@@ -11,7 +11,6 @@ pageextension 50100 "BCT CustomerListExt" extends "Customer List"
         Message('Dobar dan narode');
         Message('Guten Morgen');
         Message('Fenster');
-        //OVAKO MOŽE
-        Message('POYY');
+        Message('Jako bitan kod!');
     end;
 }
